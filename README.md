@@ -1,2 +1,6 @@
 # miPrimerRepo
-Estoy Git y GitHub
+Estoy en Git y GitHub
+
+Mi primera contribución local para GitHub
+
+
